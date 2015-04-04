@@ -1,3 +1,5 @@
 Este es un archivo de prueba para entender qué onda git.
 
 A ver si puedo hacer un commit.
+
+Después del commit, agrego esta línea. Total del archivo: 5 líneas, de las cuales 3 con contenido y 2 vacías.
